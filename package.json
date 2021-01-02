@@ -1,0 +1,14 @@
+{
+  "name": "interactive-cs-tutorial-project",
+  "version": "1.0.0",
+  "description": "An interactive tutorial on how computers and the internet work",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melinda Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
